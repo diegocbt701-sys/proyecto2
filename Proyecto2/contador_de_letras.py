@@ -1,0 +1,5 @@
+palabra = input("Ingresa Una Palabra Por Favor: ")
+x = len(palabra)
+if x >= 4 and x <= 8: print(f"¡Palabra correcta! La longitud está entre 4 y 8 letras, tiene {x} letras.")
+elif x < 4: print(f"Hacen falta letras. Solo tiene {x} letras.")
+else: print(f"Sobran letras. Tiene {x} letras.")
