@@ -14,5 +14,4 @@ elif x < 0 and y < 0: #elif continuara la estructura condicional, verificando si
     print("El punto se encuentra en el cuadrante No. 3") #en el caso de que ambas coordenadas sean negativas, se imprime un mensaje indicando que el punto se encuentra en el cuadrante No. 3
 elif x > 0 and y < 0: #elif continuara la estructura condicional, verificando si x es positivo y y es negativo
     print("El punto se encuentra en el cuadrante No. 4") #en el caso de que x sea positivo y y sea negativo, se imprime un mensaje indicando que el punto se encuentra en el cuadrante No. 4
-    
-    
+
